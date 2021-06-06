@@ -13,9 +13,3 @@ I am currently attending a Master Degree in Computer Science and Engineering at 
 </p>
 
 Here are my personal projects, I hope you will find them useful!
-
-
-
-
-
-
