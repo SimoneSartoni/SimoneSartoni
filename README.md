@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Hi,  I'm Simone, welcome to my page!
+### Hi,  I'm Simone, welcome to my page!
 
 #![]()
 Here some informations about me:
