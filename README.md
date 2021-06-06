@@ -1,7 +1,7 @@
+<<<<<<< HEAD
 # Hi,  I'm Simone, welcome to my page!
 
 #![]()
-
 Here some informations about me:
 
 * 🤔   Interested in *Machine Learning* and *Data science*.
@@ -18,9 +18,8 @@ Here some informations about me:
 
 
 
-## languages and tools I code with</h3>
+languages and tools I code with</h3>
 <p>
-
   	<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
 	<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" />
 	<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=C++&logoColor=white" />
