@@ -1,7 +1,24 @@
-Welcome to my page! I'm Simone. 
-I am currently attending a Master Degree in Computer Science and Engineering at Politecnico di Milano 
+# Hi,  I'm Simone, welcome to my page!
 
-<h3>Things I code with</h3>
+#![]()
+
+I am currently delving deep into *Neural Networks* 🚂   
+
+* 🤔   Interested in *Artificial Intelligence* and *Data science*.
+
+* 🌱   Continuously learning  *Mathematics* and *everything I can*.
+
+* 🎓   Pursuing Master Degree in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
+
+* 📖   Currently I am working on my master thesis on "Transformers for students knowledge tracing"
+
+*  I love sport: inline skating, volleyball🏐, swimming🏊, gymnastics🤸🏽‍♂️ and snowboarding🏂 alternates in my daily routine.
+
+* 🎲 why not trying a strategic board game? I love them.
+
+
+
+## languages and tools I code with</h3>
 <p>
 
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
@@ -12,7 +29,10 @@ I am currently attending a Master Degree in Computer Science and Engineering at 
 
 </p>
 
-Here are my personal projects, I hope you will find them useful!
+<i>Follow me around on LinkedIn:</i><br>
+
+  <a target="_blank" href="https://www.linkedin.com/in/simonesartoni/"></a> ●
+
 
 
 
