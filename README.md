@@ -1,9 +1,10 @@
-Welcome to my page! I'm Simone. 
-I am currently attending a Master Degree in Computer Science and Engineering at Politecnico di Milano 
+### Hi, I'm Simone, welcome to my page! 	:wave:
+Here you can find my personal and university projects, but first let me introduce myself 
 
-<h3>Things I code with</h3>
+a Master Degree in Computer Science and Engineering at Politecnico di Milano 
+
+Things I code with
 <p>
-
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=C++&logoColor=white" />
@@ -13,9 +14,3 @@ I am currently attending a Master Degree in Computer Science and Engineering at 
 </p>
 
 Here are my personal projects, I hope you will find them useful!
-
-
-
-
-
-
