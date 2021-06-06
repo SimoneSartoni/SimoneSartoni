@@ -26,9 +26,9 @@ languages and tools I code with</h3>
   	<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-<i>Follow me around on LinkedIn:</i><br>
+<i>Follow me around on:</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/simonesartoni/"></a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/simonesartoni/">Linkedin</a> ●
 
 
 
