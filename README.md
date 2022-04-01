@@ -7,13 +7,13 @@ Here some informations about me:
 
 * 🌱   Continuously learning *Mathematics* and *everything I can*.
 
-* 🎓   Pursuing Master Degree in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
+* 🎓   Master's Degree achieved in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
 
-* 📖   Currently I am working on my master thesis on "Transformers for students knowledge tracing"
+* 📖   Completed Master's Degree thesis on "A study of possible improvements in Knowledge Tracing using Natural Language Processing and self-attention"
 
 *  I love sport: inline skating, volleyball🏐, swimming🏊, gymnastics🤸🏽‍♂️ and snowboarding🏂 alternates in my daily routine.
 
-* 🎲 why not trying a strategic board game? I love them.
+* 🎲 why not trying a strategic board game? The more complex, the more I love them.
 
 
 
