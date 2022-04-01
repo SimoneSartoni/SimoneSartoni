@@ -13,7 +13,7 @@ Here some informations about me:
 
 *  I love sport: inline skating, volleyball🏐, swimming🏊, gymnastics🤸🏽‍♂️ and snowboarding🏂 alternates in my daily routine.
 
-* 🎲 why not trying a strategic board game? The more complex, the more I love them.
+* 🎲 why not trying a strategic board game? The more they are complex, the more I love them.
 
 
 
