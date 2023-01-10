@@ -21,11 +21,21 @@ Here some informations about me:
 
 languages and tools I code with</h3>
 <p>
-  	<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-	<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" />
-	<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=C++&logoColor=white" />
- 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
-  	<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  	<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />    🌟🌟🌟🌟🌟
+</p>
+<p>
+	<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" />    🌟🌟🌟
+</p>
+<p>
+	<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=C++&logoColor=white" />   🌟🌟🌟🌟
+</p>
+<p>
+ 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />    🌟🌟
+</p>
+<p>
+  	<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />    🌟🌟
+</p>
+<p>
 </p>
 
 <i>Follow me around on:</i><br>
