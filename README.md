@@ -37,22 +37,20 @@ languages and tools I code with</h3>
 </p>
 
 Python libraries I am proficient with:
-<img alt="Numpy" src="https://img.shields.io/badge/-Numpy-blue" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="Pytorch" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="Numpy" src="https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=python&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=python&logoColor=white" />
+<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-brown?style=flat-square&logo=python&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-yellow?style=flat-square&logo=python&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=python&logoColor=white" />
 
 Proficiencies for Data Science and Natural Language Processing:
-<img alt="NLTK" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="SpaCy" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="gensim" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="HuggingFace" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="BERT" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="word2vec" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
-
+<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="SpaCy" src="https://img.shields.io/badge/-SpaCy-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="gensim" src="https://img.shields.io/badge/-gensim-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="BERT" src="https://img.shields.io/badge/-BERT-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Stable Diffussion-2088FF?style=flat-square&logo=python&logoColor=white" />
 
 <i>Follow me around on:</i><br>
 
