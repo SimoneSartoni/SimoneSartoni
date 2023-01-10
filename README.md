@@ -35,8 +35,24 @@ languages and tools I code with</h3>
 <p>
   	<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />    🌟🌟
 </p>
-<p>
-</p>
+
+Python libraries I am proficient with:
+<img alt="Numpy" src="https://img.shields.io/badge/-Numpy-blue" />
+<img alt="Pandas" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="Pytorch" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+
+Proficiencies for Data Science and Natural Language Processing:
+<img alt="NLTK" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="SpaCy" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="gensim" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="BERT" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+<img alt="word2vec" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
+
 
 <i>Follow me around on:</i><br>
 
