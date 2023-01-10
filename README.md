@@ -3,9 +3,11 @@
 #![]()
 Here some informations about me:
 
+* 👨‍💻   2 years experience in Natural Language Processing, managing R&D projects about journalism and automatic content generation
+
 * 🤔   Interested in *Machine Learning* and *Data science*.
 
-* 🌱   Continuously learning *Mathematics* and *everything I can*.
+* 🌱   Continuously learning *Data Science* and *everything I can*.
 
 * 🎓   Master's Degree achieved in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
 
