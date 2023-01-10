@@ -42,7 +42,7 @@ Python libraries I am proficient with:
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-brown?style=flat-square&logo=python&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-yellow?style=flat-square&logo=python&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=python&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-lightgrey?style=flat-square&logo=python&logoColor=white" />
 </p>
 Proficiencies for Data Science and Natural Language Processing:
 <p>
