@@ -37,25 +37,26 @@ languages and tools I code with</h3>
 </p>
 
 Python libraries I am proficient with:
+<p>
 <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-brown?style=flat-square&logo=python&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-yellow?style=flat-square&logo=python&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=python&logoColor=white" />
-
+</p>
 Proficiencies for Data Science and Natural Language Processing:
-<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="SpaCy" src="https://img.shields.io/badge/-SpaCy-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="gensim" src="https://img.shields.io/badge/-gensim-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="BERT" src="https://img.shields.io/badge/-BERT-2088FF?style=flat-square&logo=python&logoColor=white" />
-<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Stable Diffussion-2088FF?style=flat-square&logo=python&logoColor=white" />
-
+<p>
+<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-brightgreen?style=flat-square&logo=python&logoColor=white" />
+<img alt="SpaCy" src="https://img.shields.io/badge/-SpaCy-green?style=flat-square&logo=python&logoColor=white" />
+<img alt="gensim" src="https://img.shields.io/badge/-gensim-yellowgreen?style=flat-square&logo=python&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-yellow?style=flat-square&logo=python&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=python&logoColor=white" />
+<img alt="BERT" src="https://img.shields.io/badge/-BERT-red?style=flat-square&logo=python&logoColor=white" />
+<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Stable Diffussion-blue?style=flat-square&logo=python&logoColor=white" />
+</p>
 <i>Follow me around on:</i><br>
 
   <a target="_blank" href="https://www.linkedin.com/in/simonesartoni/">Linkedin</a> ●
-
 
 
 
