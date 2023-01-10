@@ -19,7 +19,7 @@ Here some informations about me:
 
 
 
-languages and tools I code with</h3>
+Proficiency with code languages:</h3>
 <p>
   	<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />    🌟🌟🌟🌟🌟
 </p>
