@@ -14,8 +14,7 @@ They are about
 * Evaluating the quality of a text using 12 different KPIs.
 
 
-#![]()
-Here some information about me:
+# Here some information about me:
 
 * 👨‍💻   2 years experience in Natural Language Processing, managing R&D projects about journalism and automatic content generation
 
