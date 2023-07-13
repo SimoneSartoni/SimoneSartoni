@@ -3,7 +3,9 @@ Last update: 01/01/2023
 ### Hi,  I'm Simone, welcome to my page!
 
 First of all, those are not my only repositories! Most of them (the latest ones) are private because I can not publish them. 
+
 If you want to look at them, please get in touch with me.
+
 Some are about generating articles or commercial product descriptions combining many external services (OpenAI, MerchantWords and so on), and others are about Diffusion models and OpenCV to manage images. The last one is about evaluating the quality of a text using 12 different KPIs.
 
 
