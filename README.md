@@ -6,11 +6,14 @@ First of all, those are not my only repositories! Most of them (the latest ones)
 
 If you want to look at them, please get in touch with me.
 
-Some are about generating articles or commercial product descriptions combining many external services (OpenAI, MerchantWords and so on), and others are about Diffusion models and OpenCV to manage images. The last one is about evaluating the quality of a text using 12 different KPIs.
+They are about 
+* Generating articles or commercial product descriptions combining many external services (OpenAI, MerchantWords and so on)
+* Diffusion models and OpenCV to manage images 
+* Evaluating the quality of a text using 12 different KPIs.
 
 
 #![]()
-Here some informations about me:
+Here some information about me:
 
 * 👨‍💻   2 years experience in Natural Language Processing, managing R&D projects about journalism and automatic content generation
 
