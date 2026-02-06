@@ -1,79 +1,129 @@
-Last update: 01/01/2023
+# Hi, I'm Simone, welcome to my page! 👋
 
-### Hi,  I'm Simone, welcome to my page!
+**Note:** Most of my recent repositories are private. If you're interested in seeing them, please get in touch with me!
 
+## What I'm Building Now 🚀
 
+I'm the **Solo Founder & CEO of Act4City**, a GovTech startup revolutionizing how citizens interact with public administrations through AI. We're building the AI infrastructure layer that municipalities desperately need—eliminating bureaucracy and making government services accessible 24/7.
 
-First of all, those are not my only repositories! Most of them (the latest ones) are private because I can not publish them. 
+**Current Status:**
+- Bootstrapped and accelerated by IKIGAI 2025 (Italy's leading startup accelerator)
+- Negotiating with 5-6 municipalities (5k-57k citizens), expecting first contracts within 2-3 months
+- Built automated commercial pipeline proving consistent appointments with qualified municipalities
+- Validated product-market-fit through direct collaboration with municipal partners
 
-If you want to look at them, please get in touch with me.
+**What I've Built:**
+- Multi-city RAG systems with intelligent routing across municipal knowledge bases
+- Advanced web crawling and knowledge extraction pipelines
+- No-code workflow automation tools for municipal employees
+- AI assistants deployed through WhatsApp, Telegram, and web
+- Full-stack: Python/FastAPI backend, React frontend, GCP infrastructure
 
-They are about 
-* Generating articles or commercial product descriptions combining many external services (OpenAI, MerchantWords and so on)
-* Diffusion models and OpenCV to manage images 
-* Evaluating the quality of a text using 12 different KPIs.
+**Private Repositories:** I have extensive private repositories covering Act4City's complete technical stack. Reach out if you'd like to know more!
 
+---
 
-### Here some information about me:
+## About Me 👨‍💻
 
-* 👨‍💻   2 years experience in Natural Language Processing, managing R&D projects about journalism and automatic content generation
+* 🚀 **Solo Founder & CEO** at Act4City - Building AI solutions for public administrations
+* 🤖 **4+ years experience** in AI R&D, having delivered 12+ production AI projects
+* 🎓 **Master's Degree** in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/) (109/110)
+* 📖 **Thesis**: "A study of possible improvements in Knowledge Tracing using Natural Language Processing and self-attention"
+* 🔬 **Interests**: Generative AI, LLMs, Multi-agent systems, RAG architectures, GovTech innovation
+* 🌱 **Continuously learning**: Latest AI developments, product-market-fit validation, B2G sales
 
-* 🤔   Interested in *Machine Learning* and *Generative AI*.
+### Previous Experience:
+* **Fractional CTO** - Defined complete technical feasibility studies and implementation plans for startups
+* **GenAI Consultant** - Built chatbots and autonomous agents for American startups and Camera di Commercio Milano
+* **NLP Specialist at Contents.com** - Developed NLP systems for content generation at scale
 
-* 🌱   Continuously learning *NLP* and *everything I can*.
+---
 
-* 🎓   Master's Degree achieved in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
+## Private Repositories 🔒
 
-* 📖   Completed Master's Degree thesis on "A study of possible improvements in Knowledge Tracing using Natural Language Processing and self-attention"
+My latest work is in private repositories and includes:
 
-*  I love sport: inline skating, volleyball🏐, swimming🏊, gymnastics🤸🏽‍♂️ and snowboarding🏂 alternates in my daily routine.
+**Act4City (GovTech Platform):**
+- Multi-city RAG systems with Qdrant vector databases
+- Advanced web scraping and knowledge extraction from municipal websites
+- Multi-agent architectures for intelligent citizen assistance
+- Automated sales and marketing pipelines
+- No-code workflow automation canvas for public employees
 
-* 🎲 why not trying a strategic board game? The more they are complex, the more I love them.
+**Previous Client Work:**
+- Generating articles and commercial product descriptions combining external services (OpenAI, APIs)
+- Diffusion models and OpenCV for image management
+- Text quality evaluation using 12 different KPIs
+- Advanced chatbot systems with custom GenAI pipelines
+- Autonomous agents for various domains
 
+**Want to see more?** Get in touch!
 
+---
 
-Proficiency with code languages:</h3>
+## Technical Skills 💻
+
+### Languages
 <p>
-  	<img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />    🌟🌟🌟🌟🌟
+  <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" /> 🌟🌟🌟🌟🌟
 </p>
 <p>
-	<img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" />    🌟🌟🌟
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> 🌟🌟🌟
 </p>
 <p>
-	<img alt="C/C++" src="https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=C++&logoColor=white" />   🌟🌟🌟🌟
-</p>
-<p>
- 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />    🌟🌟
-</p>
-<p>
-  	<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />    🌟🌟
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 🌟🌟🌟
 </p>
 
-Python libraries I am proficient with:
+### AI & Machine Learning
 <p>
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-green?style=flat-square&logo=python&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-brightgreen?style=flat-square&logo=python&logoColor=white" />
+<img alt="Pydantic AI" src="https://img.shields.io/badge/-Pydantic AI-yellowgreen?style=flat-square&logo=python&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-yellow?style=flat-square&logo=python&logoColor=white" />
+<img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-orange?style=flat-square&logo=python&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=python&logoColor=white" />
+<img alt="vLLM" src="https://img.shields.io/badge/-vLLM-red?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+### Python Libraries
+<p>
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-lightgrey?style=flat-square&logo=python&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-orange?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-brown?style=flat-square&logo=python&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-yellow?style=flat-square&logo=python&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-lightgrey?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-Proficiencies for Data Science and Natural Language Processing:
-
+### Infrastructure & Tools
 <p>
-<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-brightgreen?style=flat-square&logo=python&logoColor=white" />
-<img alt="SpaCy" src="https://img.shields.io/badge/-SpaCy-green?style=flat-square&logo=python&logoColor=white" />
-<img alt="gensim" src="https://img.shields.io/badge/-gensim-yellowgreen?style=flat-square&logo=python&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-yellow?style=flat-square&logo=python&logoColor=white" />
-<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=python&logoColor=white" />
-<img alt="BERT" src="https://img.shields.io/badge/-BERT-red?style=flat-square&logo=python&logoColor=white" />
-<img alt="Stable Diffussion" src="https://img.shields.io/badge/-Stable Diffussion-blue?style=flat-square&logo=python&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon&logoColor=white" />
+<img alt="GCP" src="https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=google-cloud&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Qdrant" src="https://img.shields.io/badge/-Qdrant-red?style=flat-square&logo=python&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<i>Follow me around on:</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/simonesartoni/">Linkedin</a> ●
+---
 
+## Personal 🎯
 
+* 🏐 **Sports enthusiast**: Inline skating, volleyball, swimming, gymnastics, and snowboarding
+* 🎲 **Board game lover**: The more complex, the better!
 
+---
 
+## Connect With Me 🌐
 
+<a target="_blank" href="https://www.linkedin.com/in/simonesartoni/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a target="_blank" href="mailto:simone.sartoni1@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+📧 simone.sartoni1@gmail.com  
+📱 +39 3468067070  
+📍 Milano, Italy
+
+---
+
+*Last Updated: February 2025*
